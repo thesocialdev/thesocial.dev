@@ -1,10 +1,8 @@
 ---
 title: >-
-  Porquê Robótica e Inteligência Artificial devem ser discutida como políticas
-  públicas?
+  Robótica, Inteligência Artificial e políticas públicas
 description: >-
-  Esse texto foi adaptado da minha apresentação para o TEDx Unesp Bauru, que até
-  o presente momento ainda não foi ao ar.
+  Esse texto foi adaptado da minha apresentação para o TEDxUNESPBauru 2018.
 date: '2018-06-06T00:46:01.691Z'
 categories: ''
 keywords: ''
@@ -12,7 +10,7 @@ slug: >-
   /@mateusbatistasantos/porqu%C3%AA-rob%C3%B3tica-e-intelig%C3%AAncia-artificial-devem-ser-discutida-como-pol%C3%ADticas-p%C3%BAblicas-16bfa4038ecc
 ---
 
-_Esse texto foi adaptado da minha apresentação para o TEDx Unesp Bauru, que até o presente momento ainda não foi ao ar._
+_Esse texto foi adaptado da [minha apresentação](https://www.youtube.com/watch?v=zIqh3ByvlRY&t=607s) para o TEDxUNESPBauru 2018._
 
 Olá, meu nome é Mateus e antes de mais nada sou homem, branco, hétero, cis e cresci em uma família católica e de classe média/alta. E por que isso importa?
 

@@ -3,7 +3,7 @@ title: 'Nomadismo digital, quero!'
 description: >-
   Em agosto de 2018 tive uma das melhores experiências da minha vida, viajar
   para o Canada e Estados Unidos com minha noiva. A princípio…
-date: ''
+date: '2019-04-09T00:46:01.691Z'
 categories: ''
 keywords: ''
 slug: ''
