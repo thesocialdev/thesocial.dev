@@ -1,0 +1,11 @@
+body {
+    font-family: 'Ubuntu Mono', monospace;
+}
+
+.banner-brand__content > img {
+    border-radius: 50%;
+}
+
+.info-wrapper {
+    display: none;
+}

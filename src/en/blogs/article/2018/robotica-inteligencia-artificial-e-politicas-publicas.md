@@ -8,6 +8,7 @@ categories: ''
 keywords: ''
 slug: >-
   /@mateusbatistasantos/porqu%C3%AA-rob%C3%B3tica-e-intelig%C3%AAncia-artificial-devem-ser-discutida-como-pol%C3%ADticas-p%C3%BAblicas-16bfa4038ecc
+lang: 'en'
 ---
 
 _This text was adapted from [my presentation](https://www.youtube.com/watch?v=zIqh3ByvlRY&t=607s) for TEDxUNESPBauru 2018._

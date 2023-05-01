@@ -6,6 +6,7 @@ date: '2019-04-09T00:46:01.691Z'
 categories: ''
 keywords: ''
 slug: ''
+lang: 'en'
 ---
 
 In August of 2018, I had one of the best experiences of my life, traveling to Canada and the United States with my fiancee. At first, I had two goals with this trip: to participate in [SIGGRAPH](https://s2018.siggraph.org) as a volunteer and take a vacation. That's how I planned the trip while buying the ticket in January of that year.
